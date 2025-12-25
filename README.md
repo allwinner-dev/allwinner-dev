@@ -20,14 +20,6 @@ Languages most commonly by me
 
 ---
 
-### 📈 My Statistics on GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allwinner-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="AllWinners GitHub Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allwinner-dev&layout=compact&langs_count=8&theme=dracula" alt="Languages most commonly used by AllWinners" />
-</p>
-
----
-
 ### 💬 Contact
 I am always open to exchanging ideas about technology and new learning!
 
